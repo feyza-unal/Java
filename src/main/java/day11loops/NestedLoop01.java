@@ -27,14 +27,5 @@ Ex1: Type code to get the output like
                 System.out.println("  -Day: "+j);
             }
         }
-
-
-
-
-
-
-
-
-
     }
 }

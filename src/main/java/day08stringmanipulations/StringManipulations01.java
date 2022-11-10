@@ -13,7 +13,7 @@ public class StringManipulations01 {
         char sonHarf = isim.charAt(isim.length()-1);
 
         System.out.println(""+ilkHarf+sonHarf);                           // hocanın kodu
-        System.out.println("ilk harf:"+ilkHarf+" "+"son harf:"+sonHarf);  // benim
+        System.out.println("ilk harf:"+ilkHarf+" "+"son harf:"+sonHarf);
 
 
 //2.yol
