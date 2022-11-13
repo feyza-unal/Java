@@ -11,7 +11,7 @@ public class Civic implements Engine, Ac{
         "abstract method" lar sadece ne yapilacagini soyler(what to do)
         "concrete method" lar ne yapilacagi(what to do) ile birlikte nasil yapilacagini(How to do) da soyler.
 
-        "interface" ler bir yapilacaklar isler listesidir.(To do list)
+        "interface" ler bir yapilacak isler listesidir.(To do list)
 
         "multiple parent interface" kullandiginizda ayni method ismi ile birden fazla method olusturursaniz bu method'larin
         return type'lari ayni olmalidir. Aksi takdirde hata verir.
