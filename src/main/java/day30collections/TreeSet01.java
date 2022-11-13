@@ -8,6 +8,8 @@ public class TreeSet01 {/*
         TreeSet tekrarsiz elemanlari "alfabetik" veya "kucukten buyuge"(Natural Order) dizer.
         TreeSet cooook yavas calisir.
 
+INTERVIEW!!! -> elemanlari eklemede HashSet kullanirim (cunku hizlidir) HashSeti TreeSete ceviririm boylelikle
+elemanlari alfabetik sirada olmus olur.
         Note: Tekrarsiz elemanlari natural order da depolamak icin TreeSet kullanmak mantiklidir ama TreeSet ler coook yavas calistigi icin biz,
               elemanlari once HashSet depolariz sonra HashSet'i TreeSet e cevirerek TreeSet in yavas olma problemini asmis oluruz.
      */
