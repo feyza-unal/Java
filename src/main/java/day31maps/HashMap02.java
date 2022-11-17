@@ -6,7 +6,7 @@ public class HashMap02 {
     /*
             1)Siz "HashMap<String, Double> salaries = new HashMap<>();" kodu yazdiginizda Java memory'de 16 kutu(bucket) iceren bir yapi olusturur ve
               bu yapidaki herbir kutuya index verir. Index'ler 0 dan 15 e kadaradir.
-            2)Siz "salaries.put("QA", 110000.00);" kodunu yazdiginizda Java, key icin bir HashCode olusturur bu HashCode'u 15 e boler ve kalani index olarak kullanir.
+            2)Siz "salaries.put("QA", 110000.00);" kodunu yazdiginizda Java, key icin bir HashCode olusturur bu HashCode'u 16 ya boler ve kalani index olarak kullanir.
               Ve bu elemani o index'e yerlestirir.
             3)Yerlestirirken 4'lu bir yapi olusturur, bu yapinin ilk bolumune "HashCode" u, ikinci bolumune "Key" i, ucuncu bolumune "Value" u ve dorduncu bolumune
               "pointer" i koyar. Bu cok bolumlu yapi LinkedList'lerdeki "Node" dur. Yani HashMap bucket'lari koydugu data'yi LinkedList olarak depolar.
