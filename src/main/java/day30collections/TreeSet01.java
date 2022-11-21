@@ -42,7 +42,9 @@ elemanlari alfabetik sirada olmus olur.
         myEmails.add("z@gmail.com");
         myEmails.add("k@gmail.com");
         myEmails.add("d@gmail.com");
+
         TreeSet myEmailsSorted = new TreeSet(myEmails);// HashSet i TreeSet e cevirmek icin bu kodu yazdik.
+
         System.out.println(myEmailsSorted);
         Long end2 = LocalTime.now().toNanoOfDay();
 
