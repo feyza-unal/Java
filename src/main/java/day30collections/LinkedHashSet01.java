@@ -5,7 +5,7 @@ import java.util.LinkedHashSet;
 public class LinkedHashSet01 {/*
         LinkedHashSet'ler elemanlari ekleme sirasina(Insertion Order) gore yerlestirirler.
 
-        LinkedHashSet elemanlari siralamada zaman harcadigi icin HashSet'lere gor eyavas calisir.
+        LinkedHashSet elemanlari siralamada zaman harcadigi icin HashSet'lere gore yavas calisir.
      */
 
     public static void main(String[] args) {

@@ -16,6 +16,11 @@ public class Iterators01 {
         // for-each loop kullanarak elemanin sonuna "!" ekleyiniz
         //Note: loop'lar kendi baslarina "collection"lari update edemezler. bu yuzden java "iterator"lari olusturdu
         // iterator lar collectionlari update etmek icin kullanilir
+        //hasNext() methodu pointerdan sonra eleman varsa "true" yoksa "false" return eder
+        //nex() methodu pointer'i bir sonraki elemanin onune koyar ve ustunden atladigi elemani return eder
+        //hasPrevious() methodu pointerdan once eleman varsa "true" yoksa "false" return eder
+        //previous() methodu pointer'i bir onceki elemanin sonuna koyar ve ustunden atladigi elemani return eder
+
         for (String w:myList) {
             w = w+"!";
         }
