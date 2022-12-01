@@ -37,7 +37,7 @@ public class Iterators02 {
         } //M J A K Z
 
         //Example 2: List'deki tum elemanlari siliniz.
-        while (itr.hasNext()){
+        while (itr.hasNext()){ // next'i var mi diye kontrol ediyoruz
             itr.next();
             itr.remove();
         }
