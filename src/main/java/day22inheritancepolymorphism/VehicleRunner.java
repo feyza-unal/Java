@@ -1,4 +1,4 @@
-package day22inheritance;
+package day22inheritancepolymorphism;
 
 public class VehicleRunner {
     public static void main(String[] args) {

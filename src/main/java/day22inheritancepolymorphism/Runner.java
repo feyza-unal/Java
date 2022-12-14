@@ -1,8 +1,9 @@
-package day22inheritance;
+package day22inheritancepolymorphism;
 
 public class Runner {
     public static void main(String[] args) {
 /*
+
 * Inheritance da "variable'lar seçilirken java Object data tipine" bakar.
 * Oncelikle istediğiniz variable'ı Object'in data tipi olan Class da arar
 * O Class da bulamazsa Parent Classlara bakar

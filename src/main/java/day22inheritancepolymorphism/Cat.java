@@ -1,4 +1,4 @@
-package day22inheritance;
+package day22inheritancepolymorphism;
 
 public class Cat extends Mammal{
     public int a = 14;

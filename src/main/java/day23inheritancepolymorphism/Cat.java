@@ -9,7 +9,7 @@ public class Cat extends Mammal{
     public void eat() {
         System.out.println("cat eats");
     }
-
+//override etmek icin mouse'dan right click generate override yapabiliriz
     @Override
     public int add(int a, int b) {
         return a+b+1;

@@ -1,4 +1,4 @@
-package day22inheritance;
+package day22inheritancepolymorphism;
 
 public class HondaAccord extends Honda{
 /*

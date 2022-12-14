@@ -10,7 +10,7 @@ public class Math extends Courses{
         System.out.println("constructor 1");
     }
     public Math(int a){
-        this(); // ayni classin icindeki parametresiz constructor'i kullan
+        this(); // bu classin icindeki parametresiz constructor'i kullan
         System.out.println("constructor 2");
 
     }
